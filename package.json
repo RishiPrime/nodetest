@@ -1,0 +1,13 @@
+{
+    "name": "nodetest123",
+    "version": "1.0.0",
+    "description": "testing nodejs",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "rishi",
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
+  
